@@ -1,0 +1,7 @@
+# Requirements for Daily Briefing AI Agent
+feedparser==6.0.10
+requests==2.31.0
+jinja2==3.1.2
+transformers==4.27.4
+torch>=1.9.0
+argparse==1.4.0
