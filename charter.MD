@@ -1,4 +1,3 @@
-Below is a detailed requirements document that outlines the project from a top‐down perspective, describes each API integration, and explains the Alexa integration in detail.
 
 ---
 
